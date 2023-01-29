@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-29 15:11:22</sys_created_on>
+        <sys_id>556d43fb2f2021102f3851072799b67f</sys_id>
+        <sys_name>x_938006_crayon_crayon_itam_metric.sam_core_admin</sys_name>
+        <sys_package display_value="Crayon" source="x_938006_crayon">f6eb8b7b2f2021102f3851072799b650</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crayon">f6eb8b7b2f2021102f3851072799b650</sys_scope>
+        <sys_security_acl display_value="x_938006_crayon_crayon_itam_metric">156d43fb2f2021102f3851072799b67d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_556d43fb2f2021102f3851072799b67f</sys_update_name>
+        <sys_user_role display_value="sam_core_admin" name="sam_core_admin">db9d7913ff1002002e6bffffffffffda</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7f5d03fb2f2021102f3851072799b663" label="Crayon ITAM Metric" max_length="40" name="x_938006_crayon_crayon_itam_metric" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Metric" max_length="40" name="metric" type="string"/>
+        <element label="Total" max_length="40" name="total" type="integer"/>
+    </element>
+</database>

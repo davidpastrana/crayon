@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"Home"}</icon>
+        <name>Home Crayon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-29 15:12:54</sys_created_on>
+        <sys_id>f7bd4bbb2f2021102f3851072799b6bf</sys_id>
+        <sys_name>Home Crayon</sys_name>
+        <sys_package display_value="Crayon" source="x_938006_crayon">f6eb8b7b2f2021102f3851072799b650</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crayon">f6eb8b7b2f2021102f3851072799b650</sys_scope>
+        <sys_update_name>sys_sg_icon_f7bd4bbb2f2021102f3851072799b6bf</sys_update_name>
+        <type>image</type>
+    </sys_sg_icon>
+</record_update>

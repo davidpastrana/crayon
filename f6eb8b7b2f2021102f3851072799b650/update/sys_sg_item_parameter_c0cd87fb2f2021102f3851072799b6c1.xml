@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Crayon ITAM Metric total</name>
+        <parent>c4cd87fb2f2021102f3851072799b6c0</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-29 15:12:56</sys_created_on>
+        <sys_id>c0cd87fb2f2021102f3851072799b6c1</sys_id>
+        <sys_name>Crayon ITAM Metric total</sys_name>
+        <sys_package display_value="Crayon" source="x_938006_crayon">f6eb8b7b2f2021102f3851072799b650</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crayon">f6eb8b7b2f2021102f3851072799b650</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_c0cd87fb2f2021102f3851072799b6c1</sys_update_name>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

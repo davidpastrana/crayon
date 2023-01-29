@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Crayon Crayon ITAM Metric</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-29 15:12:54</sys_created_on>
+        <sys_id>b7bd4bbb2f2021102f3851072799b6c0</sys_id>
+        <sys_name>Crayon Crayon ITAM Metric</sys_name>
+        <sys_package display_value="Crayon" source="x_938006_crayon">f6eb8b7b2f2021102f3851072799b650</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crayon">f6eb8b7b2f2021102f3851072799b650</sys_scope>
+        <sys_update_name>sys_sg_data_item_b7bd4bbb2f2021102f3851072799b6c0</sys_update_name>
+        <table>x_938006_crayon_crayon_itam_metric</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=b7bd4bbb2f2021102f3851072799b6c0"/>
+</record_update>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Crayon ITAM Metric)">84cd87fb2f2021102f3851072799b6bc</button>
+        <item_parameter display_value="Crayon ITAM Metric metric">4ccd87fb2f2021102f3851072799b6ba</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-29 15:12:55</sys_created_on>
+        <sys_id>4ccd87fb2f2021102f3851072799b6be</sys_id>
+        <sys_name>4ccd87fb2f2021102f3851072799b6ba</sys_name>
+        <sys_package display_value="Crayon" source="x_938006_crayon">f6eb8b7b2f2021102f3851072799b650</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crayon">f6eb8b7b2f2021102f3851072799b650</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_4ccd87fb2f2021102f3851072799b6be</sys_update_name>
+        <ui_parameter display_value="Metric">88cd87fb2f2021102f3851072799b6bc</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

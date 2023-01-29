@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>total-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-29 15:12:55</sys_created_on>
+        <sys_id>3fbd87fb2f2021102f3851072799b6aa</sys_id>
+        <sys_name>total-FieldValue</sys_name>
+        <sys_package display_value="Crayon" source="x_938006_crayon">f6eb8b7b2f2021102f3851072799b650</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Crayon">f6eb8b7b2f2021102f3851072799b650</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_3fbd87fb2f2021102f3851072799b6aa</sys_update_name>
+        <view_config display_value="Crayon ITAM Metric Detail Screen View Config">f7bd87fb2f2021102f3851072799b6aa</view_config>
+        <view_template_slot display_value="text_01">177205bc41e35010f877183fc9b8bedd</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>
